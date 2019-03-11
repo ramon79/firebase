@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "996770016928",
+    "firebase_url": "https://test-6897e.firebaseio.com",
+    "project_id": "test-6897e",
+    "storage_bucket": "test-6897e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996770016928:android:e72893ae946b400c",
+        "android_client_info": {
+          "package_name": "com.ramon79.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996770016928-jrtggs54v5ni6hfdfc2haoe87qe3a127.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4KZkIqK__w4D_N2nft25FwCq6QAXUMCo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
